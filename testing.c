@@ -1,5 +1,5 @@
 void main()
-
+clrscr()
 {
 
 int a,b;
